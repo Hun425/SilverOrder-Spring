@@ -1,6 +1,7 @@
 
 # 📖 SilverOrder 프로젝트
-![silverorder_logo_removebg (1)](https://github.com/user-attachments/assets/5eec8c2a-e0aa-490e-8cd4-efda2c0bfba4)
+![silverorder_logo_white_lines_black_bg](https://github.com/user-attachments/assets/4acc03b4-b7b9-4d5f-969a-f886e5528876)
+
 
 
 <br>
@@ -26,8 +27,8 @@
 ## 1. 개발 환경 및 요구사항 명세
 
 - Front :  js,  Vue
-- Back-end : Django
-- 버전 및 이슈관리 : Github
+- Back-end : Spring
+- 버전 및 이슈관리 : Gitlab
 - 협업 툴 : Jira, Discord, Notion
 - 디자인 : [Figma]()
 
