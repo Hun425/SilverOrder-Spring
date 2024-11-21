@@ -15,9 +15,9 @@
 
 <div align="center">
 
-| **채기훈** |  |
-| :------: |  :------: |
-| [<img src="https://avatars.githubusercontent.com/Hun425?v=4" height=150 width=150> <br/> @Hun425](https://github.com/Hun425) | |
+| **채기훈** | **박동민** |  | | **박봉균** | **노명환** |
+| :------: | :------: | :------: | :------: | :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/Hun425?v=4" height=150 width=150><br/> @Hun425](https://github.com/Hun425) | [<img src="https://avatars.githubusercontent.com/trick0846?v=4" height=150 width=150><br/> @박동민]() |  | | [<img src="https://avatars.githubusercontent.com/trick0846?v=4" height=150 width=150><br/> @박봉균]() | [<img src="https://avatars.githubusercontent.com/trick0846?v=4" height=150 width=150><br/> @노명환]() |
 
 </div>
 
