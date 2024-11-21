@@ -29,13 +29,13 @@
 - Back-end : Django
 - 버전 및 이슈관리 : Github
 - 협업 툴 : Jira, Discord, Notion
-- 디자인 : [Figma](https://www.figma.com/design/owlRaOIHd9WRoKhJDBLIQo/2%ED%95%99%EA%B8%B0-%ED%8A%B9%ED%99%94-PJT-%EB%AA%A9%EC%97%85?node-id=0-1&node-type=canvas)
+- 디자인 : [Figma]()
 
 <br>
 
 | 요구사항 명세 |
 |----------|
-|![image](/uploads/c003a8721d4677234489ef2e8c12f6d4/image.png)|
+||
 
 
 
@@ -54,7 +54,7 @@
 
 | ERD |
 |----------|
-|![image](https://github.com/Hun425/finalpjt/assets/147483675/f42de4f4-4859-43ca-ac8b-bb477af1a3c2)|
+||
 
 
 <br>
