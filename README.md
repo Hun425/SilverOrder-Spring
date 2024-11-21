@@ -1,6 +1,6 @@
 
 # 📖 SilverOrder 프로젝트
-
+![silverorder_logo_removebg (1)](https://github.com/user-attachments/assets/5eec8c2a-e0aa-490e-8cd4-efda2c0bfba4)
 
 
 <br>
@@ -35,7 +35,7 @@
 
 | 요구사항 명세 |
 |----------|
-||
+|![image](https://github.com/user-attachments/assets/95d0553b-d5fa-4934-99a2-73064dd5e1df)|
 
 
 
@@ -49,12 +49,14 @@
 
 ## 3. 아키택처 및 ERD
 
-
+| 아키텍처 |
+|----------|
+|![Web App Reference Architecture](https://github.com/user-attachments/assets/23e3a28a-e906-4bd0-b506-c6ef6d2ac6cf)|
 
 
 | ERD |
 |----------|
-||
+|![실버오더ERD (2)](https://github.com/user-attachments/assets/95046109-84b7-450c-8b0f-3267eb6fc9aa)|
 
 
 <br>
@@ -78,9 +80,7 @@
 
 ### 개발 기간
 
-- 전체 개발 기간 : 
-- UI 구현 : 
-- 기능 구현 : 
+- 전체 개발 기간 : 2024.08.13 ~ 2024.10.03
 
 <br>
 
@@ -89,7 +89,6 @@
 - Jira를 사용하여 업무 분담 및 세분화를 진행했습니다.
 - Notion을 사용하여 API 명세서를 작성했습니다.
 - Github branch를 사용하여 협업을 진행했습니다.
-
 
 
 
