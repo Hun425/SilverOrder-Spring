@@ -12,7 +12,6 @@
   Silver Order
 
 
-
   ### 2. 로고 및 이미지 
 
 ![Logo Image](./Images/Logo.png)
@@ -53,6 +52,14 @@
   <br>
   <br>
   <br>
+
+## 담당 역할
+
+    
+### 👻채기훈
+
+- **기능**
+    - 백엔드 지도, 관리자 API, AI 적용 (파인튜닝 + RAG), 인프라 (CI/CD) 
 
 
   ![background Image](./Images/Background.JPG)
